@@ -1,1 +1,1 @@
-# GISLR
+# GISLR - Google Isolated Sign Language Recognition
