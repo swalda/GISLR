@@ -47,7 +47,7 @@ def load_json_file(json_path):
 
 
 class CFG:
-    data_dir = "C:/Users/Mi/Desktop/Python/diplom/"
+    data_dir = "C:/Users/Mi/Desktop/Python/GISLR/"
     sequence_length = 12
     rows_per_frame = 543
 
